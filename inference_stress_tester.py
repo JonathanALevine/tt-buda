@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import pybuda
 import pybuda.op
 from pybuda.tensor import TensorFromPytorch
